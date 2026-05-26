@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+data/*.json
+!data/portfolio.example.json

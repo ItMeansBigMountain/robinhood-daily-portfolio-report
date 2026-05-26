@@ -1,0 +1,7 @@
+{
+  "reportDate": "2026-05-25",
+  "positions": [
+    {"symbol": "AAPL", "shares": 2, "avgCost": 180.00, "previousClose": 190.00, "current": 195.00},
+    {"symbol": "MSFT", "shares": 1, "avgCost": 420.00, "previousClose": 425.00, "current": 421.00}
+  ]
+}
